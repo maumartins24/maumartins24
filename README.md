@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá sou o Maurício Martins, e estou aprendendo mais sobre programação :)
 
-<!--
-**maumartins24/maumartins24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 No momento procurando um primeiro emprego
+- 🌱 Estudando Python
+- 📫 Contate-me no linkedin https://www.linkedin.com/in/maurício-martins-303596247/
+- Ou no e-mail : mauriciob.martins@hotmail.com
+<div style="display: inline_block"><br>
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" 
+</div>
+  
+  
