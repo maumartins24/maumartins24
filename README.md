@@ -6,7 +6,8 @@
   <
 <img align ="center" alt="impacta" height="30" width= "40" src="https://img.icons8.com/external-others-maxicons/256/external-college-high-school-others-maxicons-25.png" 
   >
-  <div/>Estudando Analise e Desenvolvimento de Sistemas!
+  Estudando Analise e Desenvolvimento de Sistemas!
+  <div/>
   
 <div style="display: inline_block"><br>
   <
