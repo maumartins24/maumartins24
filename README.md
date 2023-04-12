@@ -2,7 +2,11 @@
 
 
 - 🔭 No momento procurando um primeiro emprego
-<img align ="center" alt="impacta" height="10" width= "10" src= "https://img.icons8.com/external-others-maxicons/256/external-college-high-school-others-maxicons-25.png" Estudando Python
+<div>
+  <
+<img align ="center" alt="impacta" height="10" width= "10" src="https://img.icons8.com/external-others-maxicons/256/external-college-high-school-others-maxicons-25.png" Estudando Python
+  >
+  <div/>
 <div style="display: inline_block"><br>
   <
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
