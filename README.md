@@ -4,7 +4,8 @@
 - 🔭 No momento procurando um primeiro emprego
 <div>
   <
-<img align ="center" alt="impacta" height="10" width= "10" src="https://img.icons8.com/external-others-maxicons/256/external-college-high-school-others-maxicons-25.png" Estudando Python
+<img align ="center" alt="impacta" height="20" width= "20" src="https://img.icons8.com/external-others-maxicons/256/external-college-high-school-others-maxicons-25.png" 
+  Estudando Analise e Desenvolvimento de Sistemas!
   >
   <div/>
 <div style="display: inline_block"><br>
