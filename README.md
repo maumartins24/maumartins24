@@ -13,7 +13,9 @@
   <
   <img align="center" alt="Java" height="50" width="40" src="https://img.icons8.com/fluency/256/java-coffee-cup-logo.png">
    >
-  <img align="center" alt="Sql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Sql" height="50" width="40" src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+          ">
    >
 
 </div>
