@@ -13,6 +13,8 @@
   <
   <img align="center" alt="Java" height="50" width="40" src="https://img.icons8.com/fluency/256/java-coffee-cup-logo.png">
    >
+  <img align="center" alt="Sql" height="50" width="40" src="devicon-microsoftsqlserver-plain-wordmark">
+   >
 
 </div>
   
