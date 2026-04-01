@@ -4,6 +4,8 @@
 <img align ="center" alt="impacta" height="30" width= "40" src="https://img.icons8.com/external-others-maxicons/256/external-college-high-school-others-maxicons-25.png" 
   />
    Formado em Analise e Desenvolvimento de Sistemas pela Faculdade Impacta! >
+   <br>
+   Fundador M&T Tecnologia Jurídica
    
   <div/>
   
