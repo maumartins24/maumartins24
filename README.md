@@ -1,17 +1,24 @@
 <h1 align="center">Olá, eu sou o Maurício Martins 👋</h1>
 
 <p align="center">
-  <img alt="Faculdade Impacta" height="26" src="https://img.icons8.com/external-others-maxicons/256/external-college-high-school-others-maxicons-25.png"/>
-  <b>Formado em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta</b>
+  <b>Desenvolvedor Backend & IA &nbsp;|&nbsp; Python · Node.js · LLMs · Automações · GCP</b>
 </p>
 
 <p align="center">
-  💻 Desenvolvedor Full Stack &nbsp;•&nbsp; ⚖️ Estudante de Direito &nbsp;•&nbsp; 🚀 Fundador da <b>M&amp;T Tecnologia Jurídica</b>
+  🏢 <b>Ativa.AI</b> — Desenvolvedor Pleno &nbsp;•&nbsp;
+  🏢 <b>MelloAIT</b> — Desenvolvedor Júnior &nbsp;•&nbsp;
+  🚀 Cofundador <b>M&T Tecnologia Jurídica</b>
 </p>
 
 <p align="center">
-  Atuo na interseção entre <b>tecnologia e direito</b>, construindo automações, aplicações web e
-  ferramentas de IA que resolvem problemas reais — de prospecção B2B e e-commerce a <i>legaltech</i>.
+  Fullstack com 2+ anos de experiência em APIs REST, automações, processamento de grandes volumes de dados e integração de modelos de IA.
+  Projetei um sistema que substituiu a integração BigQuery/Google Sheets, processando <b>1M+ de registros</b> com atualização diária automatizada.
+</p>
+
+<p align="center">
+  <a href="https://portifolio-rust-mu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfólio-000000?style=for-the-badge" alt="Portfólio"/>
+  </a>
 </p>
 
 ##
@@ -20,42 +27,63 @@
 
 <div align="center">
   <img alt="Python" title="Python" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img alt="TypeScript" title="TypeScript" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img alt="HTML5" title="HTML5" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" title="CSS3" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img alt="Node.js" title="Node.js" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
   <img alt="NestJS" title="NestJS" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
   <img alt="Vue.js" title="Vue.js" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>
-  <img alt="SQL Server" title="SQL Server" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-  <img alt="AWS" title="AWS" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  <img alt="Kotlin" title="Kotlin" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
+  <img alt="Flutter" title="Flutter/Dart" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
+  <img alt="HTML5" title="HTML5" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" title="CSS3" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="PostgreSQL" title="PostgreSQL" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img alt="MySQL" title="MySQL" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="Docker" title="Docker" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img alt="GCP" title="Google Cloud" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
+  <img alt="C++" title="C++" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="Git" title="Git" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
 
 <p align="center">
-  <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white"/>
-  <img alt="Google Sheets API" src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=flat&logo=googlesheets&logoColor=white"/>
-  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white"/>
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI%20%2F%20LLMs-412991?style=flat&logo=openai&logoColor=white"/>
+  <img alt="N8N" src="https://img.shields.io/badge/N8N-EA4B71?style=flat&logo=n8n&logoColor=white"/>
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
+  <img alt="Apache NiFi" src="https://img.shields.io/badge/Apache_NiFi-728E9B?style=flat&logo=apache&logoColor=white"/>
+  <img alt="Looker Studio" src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
 ##
 
 ### 🚀 Projetos em destaque
 
-- **⚖️ M&amp;T Tecnologia Jurídica** — Legaltech que fundei, unindo tecnologia e prática jurídica para automatizar fluxos de trabalho de escritórios e operações de direito.
-- **🤖 Abertura de Campanhas Automatizada** — Sistema em **NestJS + Vue.js** que integra a **API da Snov.io** e o **Google Sheets** para automatizar a criação e a gestão de campanhas de prospecção. Inclui auditoria de código com foco em segurança, validação, performance e UX.
-- **✍️ CopyFlow** — Aplicação web (single-file HTML) que gera **cadências de e-mail B2B** e textos de outreach no LinkedIn usando a **API da OpenAI**, com seleção de modelo e controle adaptativo de tokens.
-- **🛍️ Fulanas Moda Afro** — E-commerce completo para uma marca de roupas, com fluxo de **checkout via WhatsApp**.
+- **⚙️ Sistema de dados 1M+ registros · Ativa.AI** — Projetei e desenvolvi solução própria para substituir a integração BigQuery/Google Sheets: processamento de 1M+ registros com consulta, agrupamento, exportação e atualização diária automatizada, incluindo pipeline de dados da Receita Federal (normalização por CNPJ).
+- **🤖 Automação de Campanhas** — Sistema em **NestJS + Vue.js** integrando a API da Snov.io e Google Sheets para automação de campanhas de prospecção B2B, com foco em segurança, validação e performance.
+- **✍️ CopyFlow** — Aplicação single-file HTML que gera cadências de e-mail B2B e textos de outreach no LinkedIn via **API da OpenAI**, com seleção de modelo e controle adaptativo de tokens.
+- **🔌 Extensões Chrome · Ativa.AI** — Desenvolvi 5 extensões voltadas à produtividade da operação, incluindo uma integrada à API de LLMs (ChatGPT) com **prompt engineering** para personalização de contexto e automação de respostas.
+- **⚖️ M&T Tecnologia Jurídica** — Cofundei empresa focada em landing pages de alta conversão para o mercado jurídico — Vue.js (SSG), SEO técnico, integração de formulários e WhatsApp.
 
-> 💡 Confira todos os repositórios na aba **[Repositories](https://github.com/maumartins24?tab=repositories)**.
+> 💡 Veja todos os projetos em **[github.com/maumartins24](https://github.com/maumartins24?tab=repositories)** ou no **[Portfólio](https://portifolio-rust-mu.vercel.app/)**.
 
 ##
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maumartins24&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maumartins24&layout=compact&hide_border=true&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maumartins24&theme=nord_dark"/>
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maumartins24&theme=nord_dark"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maumartins24&theme=nord_dark"/>
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maumartins24&theme=nord_dark"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maumartins24&theme=nord_dark&utcOffset=-3"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maumartins24&hide_border=true&theme=tokyonight"/>
 </div>
 
 ##
@@ -68,5 +96,8 @@
   </a>
   <a href="https://www.linkedin.com/in/mauricio-martins/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://portifolio-rust-mu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
